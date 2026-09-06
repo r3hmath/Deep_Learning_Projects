@@ -6,7 +6,7 @@ Welcome to my repository containing various AI and computer vision projects comp
 
 ## 📂 Projects Overview
 
-###1. Q2 - Vehicle Attribute Identification and Scene Summary
+### 1. Q2 - Vehicle Attribute Identification and Scene Summary
 **Folder:** `Q2_Rahmath` 
 Overview:
 This project uses YOLOv8 to detect vehicles in images and extract their attributes, including type/class, color, make/logo, and license plate details. It also generates a scene summary, identifying incoming/outgoing traffic, total vehicles, and lane assignments. Annotated images with bounding boxes and labels are produced automatically.
